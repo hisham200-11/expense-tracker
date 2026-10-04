@@ -1,0 +1,13 @@
+#Project: Expense Tracker | Installment 1 | Author: Hisham H. Muctar | Date: 2024-06-10
+print("==========================================")
+print("\t     EXPENSE TRACKER")
+print("\tKnow where your money goes!")
+print("==========================================\n")
+print("Welcome this is your personal Expense Tracker!\n")
+print("MAIN MENU")
+print(" [1] Add Expense \t(coming soon)")
+print(" [2] View All Expenses \t(coming soon)")
+print(" [3] Show Total Expense\t(coming soon)")
+print(" [4] Exit\n")
+print("==========================================")
+print("Made by: Hisham H. Muctar | Installment 1")
